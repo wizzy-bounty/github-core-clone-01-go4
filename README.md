@@ -1,7 +1,7 @@
 # Anvil-Go
-![make.fun](https://make.fun/badge/github-core-clone-01.svg)
-![rank](https://make.fun/badge/github-core-clone-01/wizzy-bounty/github-core-clone-01-go4/rank.svg)
-![reward](https://make.fun/badge/github-core-clone-01/wizzy-bounty/github-core-clone-01-go4/reward.svg)
+[![make.fun · github-core-clone-01](https://make.fun/badge/github-core-clone-01.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![rank](https://make.fun/badge/github-core-clone-01/wizzy-bounty/github-core-clone-01-go4/rank.svg)](https://make.fun/bounty/github-core-clone-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
+[![reward](https://make.fun/badge/github-core-clone-01/wizzy-bounty/github-core-clone-01-go4/reward.svg)](https://make.fun/bounty/github-core-clone-01?utm_source=github&utm_medium=readme&utm_campaign=github-core-clone-01)
 
 An in-memory GitHub-compatible git forge written from scratch in Go using
 only the standard library. It implements the git smart-HTTP protocol
